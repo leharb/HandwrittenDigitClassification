@@ -1,6 +1,6 @@
 # HandwrittenDigitClassification
 
-# Program to make predictions on the MNIST Handwritten dataset by training a neural network classifier.
+# Program to make predictions on the MNIST Handwritten Digits Dataset by training a neural network classifier.
 
 # Neural network characteristics used in the program
 
